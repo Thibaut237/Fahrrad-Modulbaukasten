@@ -1,0 +1,10 @@
+
+die Hauptbaugruppen für die Module heißen:
+
+02-000-0_Baugruppe_Lastenrad
+	(NX-Files\Lastenrad)
+
+03-000-0_Dreiradmodul
+	(NX-Files\Dreirad)
+
+Für den Fall, dass es Probleme beim Öffnen der Dateien gibt (zB. Normteile nicht richtig angezeigt werden) haben wir für jedes Modul zusätzlich ein STEP-Model  erstellt. (im Ordner STEP-Files)
